@@ -82,4 +82,9 @@ Plus Nagrywanie Rozmów + AI: Automatyczna Transkrypcja i Diaryzacja
 - `cell_7_gradio_app.py` – interfejs użytkownika.
 
 ---
+
 **Zautomatyzuj nudne rzeczy i zyskaj więcej czasu na kawę! ☕**
+
+---
+
+![WebAPP](images/WebAppForTranscriptAndDiariz.png)
