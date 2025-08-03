@@ -45,10 +45,6 @@ Plus Nagrywanie Rozmów + AI: Automatyczna Transkrypcja i Diaryzacja
 4. **Wprowadź dane logowania i tokeny**:
    - Dodaj `HF_TOKEN` w sekcji "Secrets" w Colabie.
    - Wprowadź dane API w interfejsie Gradio.
-
-Kliknij poniższy przycisk, aby otworzyć projekt bezpośrednio w Google Colab:
-
-[![Otwórz w Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/slaWplUS/plus-nagrywanie-ai/blob/main/notebook.ipynb)
 ---
 
 ## 📋 Wymagania techniczne
